@@ -9,6 +9,24 @@
 
 .mid {
   background-color: #1299E6;
+  margin-block: 30px;
+}
+
+.bot {
+  background-color: #1299E6;
+}
+
+.oomph {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: large;
+}
+
+a:link {
+  color: rgb(255, 94, 0);
+}
+
+a:visited {
+  color: rgb(162, 0, 255);
 }
 
 h1 {
@@ -25,8 +43,8 @@ li {
 }
 
 h2 { 
-    text-align: center;
-    color:rgb(255, 255, 255);
+  text-align: center;
+  color:rgb(255, 255, 255);
 }
 
 h3 {
