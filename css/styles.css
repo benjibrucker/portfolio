@@ -4,5 +4,40 @@
   background-position: center center;
   background-repeat: no-repeat;
   height: 500px;
-  background-color: #FFFFFF!important;
+  background-color:#29E676 !important;
+}
+
+.mid {
+  background-color: #1299E6;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+ 
+}
+
+p {
+  color:rgb(255, 255, 255);
+}
+
+li {
+  color:rgb(255, 255, 255);
+}
+
+h2 { 
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
+
+h3 {
+  float: left;
+  color:rgb(255, 255, 255);
+}
+
+h4 {
+  color:rgb(255, 255, 255);
+}
+
+body {
+  background: #29E676 !important;
 }
