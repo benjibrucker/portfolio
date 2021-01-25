@@ -14,7 +14,6 @@
 
 .bot {
   background-color: #1299E6;
-  padding-top: 10px;
 }
 
 .oomph {
@@ -32,6 +31,8 @@ a:visited {
 
 h1 {
   color: rgb(255, 255, 255);
+  padding-top: 360px !important;
+
 }
 
 p {

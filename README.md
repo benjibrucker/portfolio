@@ -2,16 +2,25 @@
   BenjiBrucker
 
 ## project or program name ##
-  Portfolio
+  Portfolio Landing Page.
 
 ## description of program ##
-  Epicodus Independent Project #1 - Portfolio Landing Page.
+  Epicodus Independent Project #1 - Portfolio Landing Page. Shows basic implementation of HTML & CSS.
+  Basic information about BenjiBrucker.
+
+## technologies used ##
+  HTML, CSS & Bootstrap
 
 ## program setup instructions ##
-  Open in a web browser.
+  Download.
+  Open "index.html" in a web browser. 
+  Enjoy.
 
 ## link to site on GitHub Pages ##
-
+https://github.com/benjibrucker/portfolio.git
 
 ## copyright and license informatio ##
   MIT
+
+## contact ##
+  benjamin.brucker@gmail.com
